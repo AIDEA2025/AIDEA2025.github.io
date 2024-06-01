@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom"><icon>/</icon><id>/atom.xml</id><link href="/atom.xml" rel="self" type="application/atom+xml"/><link href="/" rel="alternate" type="text/html"/><link href="/index.json" rel="alternate" type="application/json"/><link href="/rss.xml" rel="alternate" type="application/rss+xml"/><logo>/</logo><subtitle type="html">Symposium&lt;br> 24. – 28. February 2025&lt;br> Salzburg, Austria</subtitle><title type="html">Connecting Disciplines in K-12 &lt;br> AI and Data Science Education</title><updated>0001-01-01T00:00:00Z</updated><entry><content type="html"><![CDATA[<p>The following focus topics will be addressed and discussed in various sessions (other topics  may be added):</p>
+<?xml version="1.0" encoding="utf-8"?><feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom"><icon>https://AIDEA2025.github.io/</icon><id>https://AIDEA2025.github.io/atom.xml</id><link href="https://AIDEA2025.github.io/atom.xml" rel="self" type="application/atom+xml"/><link href="https://AIDEA2025.github.io/" rel="alternate" type="text/html"/><link href="https://AIDEA2025.github.io/index.json" rel="alternate" type="application/json"/><link href="https://AIDEA2025.github.io/rss.xml" rel="alternate" type="application/rss+xml"/><logo>https://AIDEA2025.github.io/</logo><subtitle type="html">Symposium&lt;br> 24. – 28. February 2025&lt;br> Salzburg, Austria</subtitle><title type="html">Connecting Disciplines in K-12 &lt;br> AI and Data Science Education</title><updated>0001-01-01T00:00:00Z</updated><entry><content type="html"><![CDATA[<p>The following focus topics will be addressed and discussed in various sessions (other topics  may be added):</p>
 <p><font size="7"><i class="bi-database"></i></font> <b>Data and Problems</b></br>  What data and related contextual problems are appropriate for designing learning opportunities related to AI? What do students need to know about the concept of data to do data science and understand AI?</br></p>
 <p><font size="7"><i class="bi-tools"></i></font> <b>Tools</b></br>  Which (digital) tools are suitable or adaptable for teaching, learning and doing data science and AI at school level? </br></p>
 <p><font size="7"><i class="bi-book"></i></font> <b>Explanatory Models</b></br>  What kind of educational and explanatory models–on which level of detail and abstraction–are suitable for what learners? Where are black boxes suitable, or even needed, and where should they be avoided?</br></p>
@@ -6,14 +6,14 @@
 <p><font size="7"><i class="bi-patch-check"></i></font> <b>AI and Data Science Competencies</b></br>  What are key competencies that responsible citizens should acquire regarding the field of AI and data science? Which AI and data science competencies should already be promoted at school? What contribution can and must different subjects make?</br></p>
 <p><font size="7"><i class="bi-card-text"></i></font> <b>AI and Data Science Curricula and Implementation in School</b></br>  How can AI education be integrated in schools? How can AI and data science education be integrated into existing subject curricula (e.g. computer science, mathematics, social and natural sciences)? What could an AI and data science curriculum look like?</br></p>
 <p><font size="7"><i class="bi-search"></i></font> <b>AI and data science education for social good</b></br>  How can AI and data science education (e.g. learning environment, selection of data, etc.) be designed to effectively address social issues and promote societal well-being? What ethical considerations should guide our understanding of AI and data science in teaching?</br></p>
-]]></content><id>topics</id><link href="/schedule/topics/" rel="alternate" type="text/html"/><title type="html">Focus topics</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<p>The workshop takes place in the city of Salzburg, Austria.</p>
+]]></content><id>topics</id><link href="https://AIDEA2025.github.io/schedule/topics/" rel="alternate" type="text/html"/><title type="html">Focus topics</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<p>The workshop takes place in the city of Salzburg, Austria.</p>
 <p>The venue address is Hellbrunner Straße 34, 5020 Salzburg.</p>
 <p>
 <span class="paige-image">
 <img  alt="Landscape"   class="object-fit-cover rounded-4"  crossorigin="anonymous"  fetchpriority="high"    referrerpolicy="no-referrer"  src="/img/salzburg2_new.jpeg"   style="height: 30rem; width: 100%"   >
 </span>
 </p>
-]]></content><id>location</id><link href="/location/" rel="alternate" type="text/html"/><title type="html">Location</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<p>Speakers will be announced mid-June.</p>
+]]></content><id>location</id><link href="https://AIDEA2025.github.io/location/" rel="alternate" type="text/html"/><title type="html">Location</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<p>Speakers will be announced mid-June.</p>
 <!---div style="width: 100%; text-align: center;">
   <ul>
     <div style="margin: 10px; display: inline-block;">
@@ -53,7 +53,7 @@
     </div--->
   </ul>
 </div>
-]]></content><id>speakers</id><link href="/speakers/" rel="alternate" type="text/html"/><title type="html">Speakers</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<style type="text/css">
+]]></content><id>speakers</id><link href="https://AIDEA2025.github.io/speakers/" rel="alternate" type="text/html"/><title type="html">Speakers</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -106,7 +106,7 @@
     <li>Discussion rounds (daily); results are presented in plenary phases</li>
     <li>Social activities for community building</li>
 </ul>
-]]></content><id>timetable</id><link href="/schedule/" rel="alternate" type="text/html"/><title type="html">Timetable</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<style type="text/css">
+]]></content><id>timetable</id><link href="https://AIDEA2025.github.io/schedule/" rel="alternate" type="text/html"/><title type="html">Timetable</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -179,4 +179,4 @@
   </tr>
 </tbody>
 </table>
-<p><em>Participation throughout the entire symposium is encouraged.</em></p>]]></content><id>schedule</id><link href="/schedule/timetable/" rel="alternate" type="text/html"/><title type="html">Timetable</title><updated>0001-01-01T00:00:00Z</updated></entry></feed>
+<p><em>Participation throughout the entire symposium is encouraged.</em></p>]]></content><id>schedule</id><link href="https://AIDEA2025.github.io/schedule/timetable/" rel="alternate" type="text/html"/><title type="html">Timetable</title><updated>0001-01-01T00:00:00Z</updated></entry></feed>
