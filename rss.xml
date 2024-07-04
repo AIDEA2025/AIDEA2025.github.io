@@ -38,6 +38,19 @@
 <li>Michelle Wilkerson (USA)</li>
 </ul>
 The list is updated continuously.
+<spacer type=vertical size=1000>
+<div>
+<p>
+Sponsored by Deutsche Telekom Stiftung.
+</p>
+</div>
+ <div style="width: 100%; text-align: center;">
+  <ul>
+    <div style="margin: 10px; display: inline-block;">
+      <a href="https://www.telekom-stiftung.de/"><img src="/img/telekom.png" style="height: 85px; background-size: cover; border-radius: 1%;"></a>
+    </div>
+  </ul>
+</div>
 <!---div style="width: 100%; text-align: center;">
   <ul>
     <div style="margin: 10px; display: inline-block;">
