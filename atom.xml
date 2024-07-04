@@ -13,7 +13,31 @@
 <img  alt="Landscape"   class="object-fit-cover rounded-4"  crossorigin="anonymous"  fetchpriority="high"    referrerpolicy="no-referrer"  src="/img/salzburg2_new.jpeg"   style="height: 30rem; width: 100%"   >
 </span>
 </p>
-]]></content><id>location</id><link href="https://AIDEA2025.github.io/location/" rel="alternate" type="text/html"/><title type="html">Location</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<p>Speakers will be announced mid-June.</p>
+]]></content><id>location</id><link href="https://AIDEA2025.github.io/location/" rel="alternate" type="text/html"/><title type="html">Location</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<ul>
+<li>Katharina Bata (Germany)</li>
+<li>Marc Berges (Germany)</li>
+<li>Rolf Biehler (Germany)</li>
+<li>Karin Binder (Germany)</li>
+<li>Zarek Drozda (USA)</li>
+<li>Jakim Eckert (Germany)</li>
+<li>Joachim Engel (Germany)</li>
+<li>Tim Erickson (USA)</li>
+<li>Martin Frank (Germany)</li>
+<li>Iddo Gal (Isreal)</li>
+<li>Orit Hazzan (Isreal)</li>
+<li>Andreas Mühling (Germany)</li>
+<li>Sue Sentance (UK)</li>
+<li>Steffen Scheider (Germany)</li>
+<li>Sarah Schönbrodt (Austria)</li>
+<li>Carsten Schule (Germany)</li>
+<li>Matti Tedre (Finland)</li>
+<li>Henriikka Vartiainen (Finland)</li>
+<li>Dan Verständig (Germany)</li>
+<li>Jane Waite (UK)</li>
+<li>Travis Weiland (USA)</li>
+<li>Michelle Wilkerson (USA)</li>
+</ul>
+The list is updated continuously.
 <!---div style="width: 100%; text-align: center;">
   <ul>
     <div style="margin: 10px; display: inline-block;">
@@ -53,7 +77,7 @@
     </div--->
   </ul>
 </div>
-]]></content><id>speakers</id><link href="https://AIDEA2025.github.io/speakers/" rel="alternate" type="text/html"/><title type="html">Speakers</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<style type="text/css">
+]]></content><id>speakers</id><link href="https://AIDEA2025.github.io/speakers/" rel="alternate" type="text/html"/><title type="html">Participants</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
