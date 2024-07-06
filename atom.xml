@@ -235,4 +235,12 @@ The list is updated continuously.
 </tbody>
 </table>
 <p><em>Participation throughout the entire symposium is encouraged.</em></p>
+ <div style="width: 100%; text-align: center;">
+  <ul>
+    <div style="margin: 10px; display: inline-block;">
+      <a href="https://www.telekom-stiftung.de/"><img src="/img/telekom.png" style="height: 85px; background-size: cover; border-radius: 1%;"></a>
+    </div>
+  </ul>
+     Sponsored by Deutsche Telekom Stiftung.
+</div>
 ]]></content><id>schedule</id><link href="https://AIDEA2025.github.io/schedule/timetable/" rel="alternate" type="text/html"/><title type="html">Timetable</title><updated>0001-01-01T00:00:00Z</updated></entry></feed>
