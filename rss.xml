@@ -219,7 +219,7 @@ The list is updated continuously.
     <td class="tg-cyim">Lunch</td>
     <td class="tg-cyim">Lunch</td>
     <td class="tg-cyim">Lunch</td>
-    <td class="tg-cyim">Lunch</td>
+    <td class="tg-cyim"> </td>
   </tr>
   <tr>
     <td class="tg-bhpp">14:00 – 15:30</td>
@@ -256,7 +256,7 @@ The list is updated continuously.
     <div style="margin: 10px; display: inline-block;">
       <a href="https://www.telekom-stiftung.de/"><img src="/img/telekom.png" style="height: 85px; background-size: cover; border-radius: 1%;"></a>
     </div>
-    Sponsored by Deutsche Telekom Stiftung
   </ul>
+     Sponsored by Deutsche Telekom Stiftung
 </div>
 ]]></description><guid isPermaLink="false">schedule</guid><link>https://AIDEA2025.github.io/schedule/timetable/</link><pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate><title>Timetable</title></item></channel></rss>
