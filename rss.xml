@@ -21,6 +21,14 @@
 <img  alt="Landscape"   class="object-fit-cover rounded-4"  crossorigin="anonymous"  fetchpriority="high"    referrerpolicy="no-referrer"  src="/img/salzburg2_new_comp.jpeg"   style="height: 30rem; width: 100%"   >
 </span>
 </p>
+ <div style="width: 100%; text-align: center;">
+  <ul>
+    <div style="margin: 10px; display: inline-block;">
+      <a href="https://www.telekom-stiftung.de/"><img src="/img/telekom.png" style="height: 85px; background-size: cover; border-radius: 1%;"></a>
+    </div>
+  </ul>
+     Sponsored by Deutsche Telekom Stiftung.
+</div>
 ]]></description><guid isPermaLink="false">location</guid><link>https://AIDEA2025.github.io/location/</link><pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate><title>Location</title></item><item><description><![CDATA[<ul>
 <li>Juliane Ahlborn (Germany)</li>
 <li>Katharina Bata (Germany)</li>
