@@ -135,7 +135,7 @@ The list is updated continuously.
 </tbody>
 </table>
 <p>Start: 24 February 2025, 9am!</p>
-<p>End: 27 February 2025, 6pm </p>
+<p>End: 28 February 2025, 6pm </p>
 <p><em>Participation throughout the entire symposium is encouraged.</em></p>
 <p class="display-8 fw-bold h2 text-center">Activities</p>
 <ul>
@@ -145,6 +145,15 @@ The list is updated continuously.
     <li>Discussion rounds (daily); results are presented in plenary phases</li>
     <li>Social activities for community building</li>
 </ul>
+<spacer type=vertical size=1000>
+ <div style="width: 100%; text-align: center;">
+  <ul>
+    <div style="margin: 10px; display: inline-block;">
+      <a href="https://www.telekom-stiftung.de/"><img src="/img/telekom.png" style="height: 85px; background-size: cover; border-radius: 1%;"></a>
+    </div>
+  </ul>
+     Sponsored by Deutsche Telekom Stiftung.
+</div>
 ]]></content><id>timetable</id><link href="https://AIDEA2025.github.io/schedule/" rel="alternate" type="text/html"/><title type="html">Timetable</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
 .tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
