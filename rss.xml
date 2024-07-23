@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xml:lang="en" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="https://AIDEA2025.github.io/atom.xml" rel="self" type="application/rss+xml"/><description>AIDEA&lt;br> 24. – 28. February 2025&lt;br> Salzburg, Austria</description><language>en</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate><link>https://AIDEA2025.github.io/</link><title>Symposium on Integrating AI and Data Science into School Education Across Disciplines</title><item><description><![CDATA[<p>
-<ul>
-<li><b>August 31:</b> Deadline for the extended abstract (2 pages incl. literature)</li>
-<li><b>December 31:</b> Deadline for the final paper (4 pages incl. literature)</li>
-</ul>
-</p>
-<p>The following focus topics will be addressed and discussed in various sessions:</p>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xml:lang="en" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="https://AIDEA2025.github.io/atom.xml" rel="self" type="application/rss+xml"/><description>AIDEA&lt;br> 24. – 28. February 2025&lt;br> Salzburg, Austria</description><language>en</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate><link>https://AIDEA2025.github.io/</link><title>Symposium on Integrating AI and Data Science into School Education Across Disciplines</title><item><description><![CDATA[<p>The following focus topics will be addressed and discussed in various sessions:</p>
 <p><font size="7"><i class="bi-database"></i></font> <b>Data and Problems</b></br>  What data and related contextual problems are appropriate for designing learning opportunities related to AI? What do students need to know about the concept of data to do data science and understand AI?</br></p>
 <p><font size="7"><i class="bi-tools"></i></font> <b>Tools</b></br>  Which (digital) tools are suitable or adaptable for teaching, learning and doing data science and AI at school level? </br></p>
 <p><font size="7"><i class="bi-lightbulb"></i></font> <b>Explanatory Models</b></br>  What kind of educational and explanatory models–on which level of detail and abstraction–are suitable for what learners? Where are black boxes suitable, or even needed, and where should they be avoided?</br></p>
@@ -20,7 +14,7 @@
   </ul>
      Sponsored by Deutsche Telekom Stiftung.
 </div>
-]]></description><guid isPermaLink="false">topics</guid><link>https://AIDEA2025.github.io/schedule/topics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate><title>Important dates and focus topics</title></item><item><description><![CDATA[<p>
+]]></description><guid isPermaLink="false">topics</guid><link>https://AIDEA2025.github.io/schedule/topics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate><title>Focus topics</title></item><item><description><![CDATA[<p>
 The workshop takes place at the Paris Lodron University of Salzburg, Austria.<br>
 The venue address is Hellbrunnerstraße 34, 5020 Salzburg (<a href="https://maps.app.goo.gl/jkxPUPp6ydpmvgwNA">Google Maps</a>).
 </p>
