@@ -22,14 +22,14 @@ The following template is intended for use in the final version of the extended 
 </p>
 </div>
 <!-- Centering the horizontal line with a percentage width -->
-<p><hr style="width: 80%; border: 2px solid black;"></p>
+<p><hr style="width: 95%; border: 2px solid black;"></p>
 <p class="h5 fw-bold style="margin-top: 60px;">Final deadline for submission of abstracts (August 23, 2024)</p>
 <div>
 <p>
 The deadline for the sumbission of abstracts has been extended to <b>September 04, 2024</b>. There will be no further extensions of the deadline.
 </p>
 </div>
-<hr style="width: 50%; margin: auto;">
+<p><hr style="width: 95%; border: 2px solid black;"></p>
 <p class="h5 fw-bold style="margin-top: 200px;">Information on abstract submission, hotel booking and travel costs (July 23, 2024)</p>
 <div>
 <p>
