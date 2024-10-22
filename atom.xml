@@ -22,7 +22,7 @@ The following template is intended for use in the final version of the extended 
 </p>
 </div>
 <!-- Centering the horizontal line with a percentage width -->
-<hr style="width: 50%; margin: auto;">
+<p><hr style="width: 80%; border: 2px solid black;"></p>
 <p class="h5 fw-bold style="margin-top: 60px;">Final deadline for submission of abstracts (August 23, 2024)</p>
 <div>
 <p>
