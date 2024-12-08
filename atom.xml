@@ -172,59 +172,222 @@ The list is updated continuously.
     </div--->
   </ul>
 </div>
-]]></content><id>participants</id><link href="https://AIDEA2025.github.io/participants/" rel="alternate" type="text/html"/><title type="html">Participants</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>   
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-</tbody>
+]]></content><id>participants</id><link href="https://AIDEA2025.github.io/participants/" rel="alternate" type="text/html"/><title type="html">Participants</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<table style="border-collapse: collapse; width: 100%; border: 1px solid #ddd; text-align: left;">
+  <thead>
+    <tr style="background-color: #0d6efd; color: white;">
+      <th style="padding: 10px;">Time</th>
+      <th style="padding: 10px;">Sunday, 23.02.2025</th>
+      <th style="padding: 10px;">Monday, 24.02.2025</th>
+      <th style="padding: 10px;">Tuesday, 25.02.2025</th>
+      <th style="padding: 10px;">Wednesday, 26.02.2025</th>
+      <th style="padding: 10px;">Thursday, 27.02.2025</th>
+      <th style="padding: 10px;">Friday, 28.02.2025</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Morning Session -->
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">09:00 – 09:30</td>
+      <td></td>
+      <td>Opening and introduction</td>
+      <td>Morning Session</td>
+      <td>Morning Session</td>
+      <td>Morning Session</td>
+      <td>Morning Session</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">09:30 – 10:30</td>
+      <td></td>
+      <td>Keynote 1</td>
+      <td>Keynote 2</td>
+      <td>Keynote 3</td>
+      <td>Keynote 4</td>
+      <td>Keynote 5</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">10:30 – 11:00</td>
+      <td></td>
+      <td>Coffee Break</td>
+      <td>Coffee Break</td>
+      <td>Coffee Break</td>
+      <td>Coffee Break</td>
+      <td>TBA</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">11:00 – 12:30</td>
+      <td></td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>TBA</td>
+    </tr>
+    <!-- Lunch Break -->
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">12:30 – 13:45</td>
+      <td></td>
+      <td>Lunch</td>
+      <td>Lunch</td>
+      <td>Lunch</td>
+      <td>Lunch</td>
+      <td>Lunch</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">13:45 – 14:45</td>
+      <td></td>
+      <td><Keynote/td>
+      <td><Keynote/td>
+      <td>Keynote</td>
+    </tr>
+    <!-- Afternoon Session -->
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">14:00 – 15:30</td>
+      <td></td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>Social Event</td>
+      <td>TBA</td>
+      <td>Keynote</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">15:30 – 16:00</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Keynote</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">16:00 – 18:00</td>
+      <td></td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>Social Event</td>
+      <td>TBA</td>
+      <td></td>
+    </tr>
+    <!-- Evening -->
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">Evening</td>
+      <td>Pre-conference dinner, 7pm at <a href="https://www.gablerbrau.at/">Gablerbräu</a></td>
+      <td>Optional joint dinner, 7pm at <a href="https://www.cantinetta.at/">La Cantinetta</a></td>
+      <td></td>
+      <td></td>
+      <td>Symposium dinner, 6:30pm at <a href="https://www.sternbrau.at/">Sternbräu</a></td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
-<p>Start: 24 February 2025, 9am!</p>
-<p>End: 28 February 2025, 6pm </p>
-<p><em>Participation throughout the entire symposium is encouraged.</em></p>
-<p class="display-8 fw-bold h2 text-center">Activities</p>
-<ul>
-    <li>Plenary talks (approx. 50’)</li>
-    <li>Short talks (approx. 25’)</li>
-    <li>Poster sessions</li>
-    <li>Discussion rounds (daily); results are presented in plenary phases</li>
-    <li>Social activities for community building</li>
-</ul>
+<table style="border-collapse: collapse; width: 100%; border: 1px solid #ddd; text-align: left;">
+  <thead>
+    <tr style="background-color: #0d6efd; color: white;">
+      <th style="padding: 10px;">Time</th>
+      <th style="padding: 10px;">Sunday, 23.02.2025</th>
+      <th style="padding: 10px;">Monday, 24.02.2025</th>
+      <th style="padding: 10px;">Tuesday, 25.02.2025</th>
+      <th style="padding: 10px;">Wednesday, 26.02.2025</th>
+      <th style="padding: 10px;">Thursday, 27.02.2025</th>
+      <th style="padding: 10px;">Friday, 28.02.2025</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Morning Session -->
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">09:00 – 10:30</td>
+      <td></td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>TBA</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">10:30 – 11:00</td>
+      <td></td>
+      <td>Coffee Break</td>
+      <td>Coffee Break</td>
+      <td>Coffee Break</td>
+      <td>Coffee Break</td>
+      <td>TBA</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">11:00 – 12:30</td>
+      <td></td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>TBA</td>
+    </tr>
+    <!-- Lunch Break -->
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">12:30 – 12:45</td>
+      <td></td>
+      <td>Session Extension</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">12:45 – 14:00</td>
+      <td></td>
+      <td>Lunch</td>
+      <td>Lunch</td>
+      <td>Lunch</td>
+      <td>Lunch</td>
+      <td></td>
+    </tr>
+    <!-- Afternoon Session -->
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">14:00 – 14:30</td>
+      <td></td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>Social Event</td>
+      <td>TBA</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">14:30 – 15:30</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Keynote</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">15:30 – 16:00</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">16:00 – 18:00</td>
+      <td></td>
+      <td>TBA</td>
+      <td>TBA</td>
+      <td>Social Event</td>
+      <td>TBA</td>
+      <td></td>
+    </tr>
+    <!-- Evening -->
+    <tr>
+      <td style="padding: 10px; font-weight: bold;">Evening</td>
+      <td>Pre-conference dinner, 7pm at <a href="https://www.gablerbrau.at/">Gablerbräu</a></td>
+      <td>Optional joint dinner, 7pm at <a href="https://www.cantinetta.at/">La Cantinetta</a></td>
+      <td></td>
+      <td></td>
+      <td>Symposium dinner, 6:30pm at <a href="https://www.sternbrau.at/">Sternbräu</a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 <spacer type=vertical size=1000>
  <div style="width: 100%; text-align: center;">
   <ul>
