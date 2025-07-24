@@ -293,13 +293,24 @@ Michelle Wilkerson (USA)
   </ul>
 </div>
 ]]></content><id>participants</id><link href="https://AIDEA2025.github.io/participants/" rel="alternate" type="text/html"/><title type="html">Participants</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<div>
-<p>
-We are delighted to share that the proceedings of the AIDEA Symposium have now been published!<br>
-This collection brings together the diverse and inspiring contributions presented at the event, reflecting the latest developments and insights in the field. We are excited for you to explore the work of our community and hope it will serve as a valuable resource for your research and practice.
-<p>You can find the individual papers on <a href="https://openreview.net/group?id=AIDEA/2025/Symposium#tab-keynote-presentation-45-minutes">OpenReview</a>.<br>
-Alternatively, you can download a ZIP file with all contributions from our website: <a href="/img/AIDEA2025.zip" download>Download proceedings as ZIP file</a></p>
-</p>
-</div>]]></content><id>proceedings</id><link href="https://AIDEA2025.github.io/proceedings/" rel="alternate" type="text/html"/><title type="html">Proceedings</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<p><object data="/img/timetable_aidea_2025.pdf" width="1000" height="1000" type='application/pdf'></object></p>
+  <h2 style="color: #2a5d9f; margin-bottom: 15px; font-weight: 700; font-size: 1.8rem;">AIDEA Symposium Proceedings Now Published!</h2>
+  <p style="line-height: 1.6; font-size: 1.1rem; margin-bottom: 20px;">
+    We are thrilled to announce that the proceedings from the <strong>AIDEA Symposium</strong> are now officially published and available to the community.
+  </p>
+  <p style="line-height: 1.6; font-size: 1rem; margin-bottom: 20px;">
+    This curated collection showcases a rich diversity of innovative ideas presented during the symposium, highlighting the latest research and advancements in the field. Whether you're a researcher, practitioner, or enthusiast, these contributions aim to inspire and support your work.
+  </p>
+  <p style="margin-bottom: 20px; font-size: 1rem;">
+    Explore individual papers on <a href="https://openreview.net/group?id=AIDEA/2025/Symposium#tab-keynote-presentation-45-minutes" style="color: #2563eb; text-decoration: none; font-weight: 600;" target="_blank" rel="noopener">OpenReview</a>.
+  </p>
+  <p>
+    Or download the entire proceedings as a ZIP file:<br>
+    <a href="/img/AIDEA2025.zip" download style="display: inline-block; margin-top: 8px; padding: 10px 18px; background-color: #2563eb; color: white; font-weight: 600; border-radius: 5px; text-decoration: none; transition: background-color 0.3s ease;">
+      Download Proceedings (ZIP)
+    </a>
+  </p>
+</div>
+]]></content><id>proceedings</id><link href="https://AIDEA2025.github.io/proceedings/" rel="alternate" type="text/html"/><title type="html">Proceedings</title><updated>0001-01-01T00:00:00Z</updated></entry><entry><content type="html"><![CDATA[<p><object data="/img/timetable_aidea_2025.pdf" width="1000" height="1000" type='application/pdf'></object></p>
 <p>The official program starts on Monday, 24.02.2025 at 9 am and ends on Friday, 28.02.2025 at 11:45 am.</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
